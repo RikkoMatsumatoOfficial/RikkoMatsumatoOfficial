@@ -7,3 +7,5 @@ I'm Rikko Matsumato and I'm Also Coding in C++, C#, ASM(Assembly Language or Ass
 ## Donations
 
 [DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
+
+**Monero Wallet:** 43HuQeqRmfjAQtkMbaKTxHD3jUCHzjh6GjJTyK7dDpAZSSaJSrWhxCU6k1AAmY87zjZrxByhShuPZ7KCbq52ZoWE5UYzvEw
