@@ -10,4 +10,4 @@ I'm Rikko Matsumato and I'm Also Coding in C++, C#, ASM(Assembly Language or Ass
 
 Monero Wallet(CTRL-C to Copy This Wallet):
 
-[Monero Wallet](https://monero:43HuQeqRmfjAQtkMbaKTxHD3jUCHzjh6GjJTyK7dDpAZSSaJSrWhxCU6k1AAmY87zjZrxByhShuPZ7KCbq52ZoWE5UYzvEw?recipient_name=RikkoMatsumato&tx_description=Donation)
+[Monero Wallet](http://monero:43HuQeqRmfjAQtkMbaKTxHD3jUCHzjh6GjJTyK7dDpAZSSaJSrWhxCU6k1AAmY87zjZrxByhShuPZ7KCbq52ZoWE5UYzvEw?recipient_name=RikkoMatsumato&tx_description=Donation)
