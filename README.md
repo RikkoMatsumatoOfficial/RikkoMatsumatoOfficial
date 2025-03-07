@@ -1,6 +1,6 @@
 # Hi!!!
 
-I'm Rikko Matsumato and I'm Also Coding in C++, C#, ASM(Assembly Language or Assembly), Ren'Py, LUA, Python, ISS(Inno Setup), NSIS, Java, GoLang, Rust, JavaScript, TypeScript, HTML, CSS and SCSS...
+I'm Rikko Matsumato and I'm Also Coding in C++, C#, ASM(Assembly Language or Assembly), Ren'Py, Python, LUA, ISS(Inno Setup), NSIS, Java, GoLang, Rust, JavaScript, TypeScript, HTML, CSS and SCSS...
 
 [My GitLab Account](https://gitlab.com/RikkoMatsumato)
 
