@@ -4,6 +4,8 @@ I'm Rikko Matsumato and I'm Also Coding in C++, C#, ASM(Assembly Language or Ass
 
 [My GitLab Account](https://gitlab.com/RikkoMatsumato)
 
+[Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
+
 ## Donations
 
 [DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
