@@ -12,3 +12,5 @@ I'm Rikko Matsumato and I'm Also Coding in C++, C#, ASM(Assembly Language or Ass
 
 > **_Monero Wallet:_** 
 > monero:49SVX8xZ3TCAqKDqW4Ybt1FPTZuMF4SVf2XQWamHZVYddk6pViYJbgrY911RJ6CgFm14vQUuH8Zv5Qouxb6U3YMG1jHQsRq?recipient_name=RikkoMatsumato
+
+[Ko-Fi](https://ko-fi.com/rikkomatsumato)
