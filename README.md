@@ -6,6 +6,8 @@ I'm Rikko Matsumato and also coding in C++, C#, ASM(Assembly Language or Assembl
 
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 
+[Subscribe to My Bluesky Social Profile](https://bsky.app/profile/rikkomatsumato.bsky.social)
+
 ## Donations
 
 [DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
