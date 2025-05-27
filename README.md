@@ -12,6 +12,6 @@ I'm Rikko Matsumato and also coding in C++, C#, ASM(Assembly Language or Assembl
 
 ## Donations
 
-[DonationAlerts(For Russians and Other Country with Commonwealth of Independent States)](https://donationalerts.com/r/rikkomatsumato)
+[DonationAlerts(For Russians and Others Countries with Commonwealth of Independent States)](https://donationalerts.com/r/rikkomatsumato)
 
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
