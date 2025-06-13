@@ -4,8 +4,6 @@ I'm Rikko Matsumato and also coding in C++, C#, ASM(Assembly Language or Assembl
 
 - Currently Learning Verilog and SystemVerilog(FOR THE EDUCATIONAL PURPOSAL!!!), Also Learning Programming for OS Kali Linux!!!
 
-[My GitLab Account](https://gitlab.com/RikkoMatsumato)
-
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 
 [Subscribe to My Bluesky Social Profile](https://bsky.app/profile/rikkomatsumato.bsky.social)
